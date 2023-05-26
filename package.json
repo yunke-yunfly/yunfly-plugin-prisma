@@ -1,6 +1,6 @@
 {
   "name": "@yunflyjs/yunfly-plugin-prisma",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yunfly prisma plugin.",
   "main": "./dist/app.js",
   "typings": "dist/app.d.ts",
